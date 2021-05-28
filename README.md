@@ -8,9 +8,11 @@ My second programming project ever.
 
 **Download SFML 2.5.1 from this official Link [SFML 2.5.1 x64](https://www.sfml-dev.org/files/SFML-2.5.1-windows-gcc-7.3.0-mingw-64-bit.zip)**
 
-**Then un-zip the downloaded file**
+**Then un-zip the downloaded file.**
 
-**Now copy _```bin```_ ,_```lib```_ and _```include```_ directories then paste them in main MinGW directory. (You may find it on ```C``` drive)**
+**Now copy _```bin```_ ,_```lib```_ and _```include```_ directories then paste them in main MinGW directory. **
+
+**(You may find it on ```C``` drive)**
 
 **_(Note that these directories must be existed before pasting them in main MinGW directory)_**
 
