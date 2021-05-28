@@ -2,7 +2,7 @@
 My second programming project ever.
 ## How to compile ?
 
-**First install MinGW GCC Compiler**
+**First install MinGW GCC Compiler x64**
 
 ### Install SFML 2.5.1
 
