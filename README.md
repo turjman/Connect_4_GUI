@@ -10,7 +10,7 @@ My second programming project ever.
 
 **Then un-zip the downloaded file.**
 
-**Now copy _```bin```_ ,_```lib```_ and _```include```_ directories then paste them in main MinGW directory. **
+**Now copy _```bin```_ ,_```lib```_ and _```include```_ directories then paste them in main MinGW directory.**
 
 **(You may find it on ```C``` drive)**
 
