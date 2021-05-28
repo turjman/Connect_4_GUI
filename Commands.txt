@@ -1,0 +1,3 @@
+g++ -c Source.cpp 
+g++ Source.o -o CONNECT_FOUR_GUI -L<sfml-install-path>/lib -lsfml-graphics -lsfml-window -lsfml-system 
+./CONNECT_FOUR_GUI
